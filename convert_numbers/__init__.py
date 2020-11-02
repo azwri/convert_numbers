@@ -1,5 +1,5 @@
 
-from numbers import Numbers as __num__
+from allnumbers import Numbers as __num__
 
 # Note here
 __all__ = []
