@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='convert_numbers',
-  version='0.0.3',
+  version='0.4',
   description='Arabic Persian English Hindi Numbers is a Python library to convert numbers from-to Arabic, Hinid, Persian and English.',
   long_description=open('README.md').read(),
   long_description_content_type="text/markdown",
@@ -21,5 +21,5 @@ setup(
   classifiers=classifiers,
   keywords='Arabic Persian English Hindi Numbers Python conversion numbers from-to Arabic, Hinid, Persian and English', 
   packages=find_packages(),
-  install_requires=[''] 
+  install_requires=['']
 )

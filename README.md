@@ -1,19 +1,15 @@
 # convert_numbers
-# Arabic Persian English Hindi Numbers Conversion
+![Twitter Follow](https://img.shields.io/twitter/follow/Al_Azwari?label=Follow&style=social) [![Downloads](https://pepy.tech/badge/convert-numbers)](https://pepy.tech/project/convert-numbers) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django?style=plastic) [![PyPI version](https://badge.fury.io/py/convert-numbers.svg)](https://badge.fury.io/py/convert-numbers)
+##### Arabic Persian English Hindi Numbers Conversion
 
 
-convert_numbers is a Python library for convert numbers from-to Arabic, Hinid, Persian and English.
-
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+##### Installation
 
 ```bash
 pip install convert_numbers
 ```
 
-## Usage
+##### Usage
 
 ```python
 import convert_numbers
