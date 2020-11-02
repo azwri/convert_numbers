@@ -1,3 +1,4 @@
+# from convert_numbers import convert
 import convert_numbers
 
 # From Hindi To Englis
@@ -38,3 +39,4 @@ print(convert_numbers.persian_to_hindi('۵۱۲۳۹۶۰۴۴')) #٥١٢٣٩٦٠٤�
 
 # From Hindi To Persian
 print(convert_numbers.hindi_to_persian('٢٣٤٥٦٧٨٠٩٨٧٦')) #۲۳۴۵۶۷۸۰۹۸۷۶
+
